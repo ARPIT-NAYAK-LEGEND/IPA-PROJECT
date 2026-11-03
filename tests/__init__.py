@@ -1,0 +1,4 @@
+"""
+ImageDiff test suite
+"""
+
